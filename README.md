@@ -29,5 +29,4 @@ In alignment with the principles of **Trustworthy AI**, this pipeline does not p
 * **Scalable Architecture:** Designed for integration into High-Performance Computing (HPC) workflows for large-scale clinical cohort analysis.
 
 ---
-### 🔗 Related Research
-* **LakotaBERT:** Awarded "Best Paper" at RTIP2P-2024. Expertise in transformer architectures and low-resource language modeling applied to clinical domains.
+
